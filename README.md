@@ -48,6 +48,8 @@ https://learnopengl.com/Getting-started/Shaders
 A site to let you play around:
 http://shdr.bkcore.com/
 
+## Fun Images
+
 ## References
 1. https://www.khronos.org/opengl/wiki/History_of_OpenGL
 2. https://www.khronos.org/registry/OpenGL/specs/gl/GLSLangSpec.1.20.pdf 
