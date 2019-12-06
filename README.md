@@ -51,11 +51,11 @@ http://shdr.bkcore.com/
 ## Hello (Pink) World
 Sample code to get a pretty pink color:
 
-precision highp float;
-void main()  
-{  
-    gl_FragColor = vec4(1,0,1, 1.0);  
-}  
+    precision highp float;
+    void main()  
+    {  
+        gl_FragColor = vec4(1,0,1, 1.0);  
+    }  
 
 ## References
 1. https://www.khronos.org/opengl/wiki/History_of_OpenGL
